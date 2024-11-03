@@ -1,0 +1,6 @@
+src/.idea
+src/cmake-build-debug
+src/CMakeLists.txt
+laiykali
+build
+debug
